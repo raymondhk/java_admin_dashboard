@@ -1,0 +1,9 @@
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/models/Role.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/config/WebSecurityConfig.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/repositories/RoleRepository.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/services/UserService.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/models/User.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/controllers/Users.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/repositories/UserRepository.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/AdminDashboardApplication.java
+/Users/ray/Documents/AdminDashboard/src/main/java/com/project/AdminDashboard/services/UserDetailsServiceImplementation.java
